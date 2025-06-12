@@ -1,0 +1,11 @@
+[workspace]
+members = [
+	"yggdrasil-core",
+	"plugin-api",
+	"harness",
+	"harness-visualiser",
+	"app-native",
+	"app-web",
+	"ai",
+	"shared"
+]
